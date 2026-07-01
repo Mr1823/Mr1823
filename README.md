@@ -1,109 +1,116 @@
-<h1 align="center">Hi there 👋, I'm Pavithran</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Building AI-Native Products | Targeting Zoho 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=B.Tech+AI+%26+Data+Science+Student;Python+%7C+React+%7C+Node.js+%7C+Flutter;Building+AI-Native+SaaS+Products+%F0%9F%A4%96;Shipping+Real+Projects%2C+Not+Just+Tutorials" alt="Typing SVG" />
-</p>
+```
+$ whoami
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr1823&color=00c9ff&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square"/>
-</p>
+# PAVITHRAN
 
----
+### building things that matter, not things that demo well.
 
-### 👨‍💻 About Me
+</div>
 
-- 🎓 **B.Tech AI & Data Science** @ Kamaraj College of Engineering & Technology (KCET), Virudhunagar — Batch 2024–2028
-- 🏫 Affiliated with **Anna University** | Student ID: 24UAD056
-- 🔭 Currently building: **RageRadar** — an AI-native B2B SaaS platform that scores brand sentiment with a "Rage Index," as part of **Straw Labs Genesis Cohort 01**
-- 💼 Interned at **Lamda Tech Softics**
-- 🎯 Targeting: **Software Developer role at Zoho**
-- 🌱 Currently sharpening: **DSA** (90-day "Curious Freaks" tracker) and the AI/ML ecosystem
-- 🧘 Grounded in Stoic philosophy — I build things that mean something, not just things that demo well
-- 📍 Tamil Nadu, India
+<br>
 
----
+```bash
+> role         B.Tech AI & Data Science, KCET Virudhunagar (Anna University) — 2024–2028
+> student_id   24UAD056
+> currently    Building RageRadar @ Straw Labs Genesis Cohort 01
+> internship   Lamda Tech Softics
+> target       Software Developer @ Zoho
+> philosophy   Stoic — control what's yours, ship the rest
+```
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+## `/projects`
 
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Data**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**🔥 RageRadar**
+`react` `node` `supabase` `claude-api`
 
-**AI / ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+AI-native B2B SaaS that scores brand sentiment with a 0–100 "Rage Index," pulling frustrated customer reviews from Reddit, App Store, Google Play, YouTube, and news — then runs them through a full AI intelligence layer (query planner, emotion engine, LLM insights, chat interface).
 
-**Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+**🎨 AirPlay**
+`python` `opencv` `flask`
 
-### 🚀 Featured Projects
+Real-time gesture-controlled virtual drawing system — draw mid-air off a live webcam feed, with a built-in mini-game puzzle mode and Flask-based web streaming.
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔥 **RageRadar** | B2B SaaS platform that aggregates frustrated customer reviews (Reddit, App Store, Google Play, YouTube, news) and scores brands with a 0–100 "Rage Index," backed by a full AI intelligence layer (query planner, emotion engine, LLM insights, chat interface) | React, Node.js, Supabase, HuggingFace, Claude |
-| 🎨 **AirPlay** | Real-time, gesture-controlled virtual drawing system with a webcam pipeline, mini-game puzzle mode, and Flask-based web streaming | Python, OpenCV, Flask |
-| 💰 **Kanakku Pulla** | Android personal finance tracker for Tamil college students — SMS auto-parsing, NPCI-based deduplication, GPay-style dialpad, multi-bank support | Java, Android, Room DB |
-| 🧘 **Marcus AI** | Fully local, offline AI companion running on-device with a custom Stoic-inspired persona and long-term memory | Python, Ollama, Flask, SQLite |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**💰 Kanakku Pulla**
+`java` `android` `room-db`
 
-### 📜 Certifications
+Personal finance tracker built for Tamil college students. Auto-parses bank SMS, dedupes via NPCI reference numbers, GPay-style dialpad UI, multi-bank support.
 
-- 🅰️ **18 Anthropic Certifications**
-- 🖧 **Cisco Networking Academy** — Introduction to Modern AI, Data Analytics Essentials, Apply AI: Analyze Customer Reviews
-- 🪟 **Microsoft AI Skills Fest**
+</td>
+<td width="50%" valign="top">
 
----
+**🧘 Marcus AI**
+`python` `ollama` `flask` `sqlite`
 
-### 📊 GitHub Stats
+Fully local, offline AI companion — no cloud, no API bills. Custom Stoic-inspired persona running on-device with long-term memory.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr1823&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr1823&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 🤝 Connect With Me
+## `/stack`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mr1823" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```
+Languages    ██████████████████░░  Python · Java · TypeScript
+Frontend     ███████████████░░░░░  React · Vite · Flutter
+Backend      ████████████████░░░░  Node.js · Express · Flask
+Data         ██████████████░░░░░░  Supabase · SQLite
+AI/ML        █████████████████░░░  Claude API · HuggingFace · Ollama · OpenCV
+Tools        ███████████████░░░░░  Git · Docker
+```
 
-<p align="center">⭐ <i>Building real products, one commit at a time.</i> ⭐</p>
+<br>
+
+## `/certifications`
+
+- 18x Anthropic Certifications
+- Cisco Networking Academy — Modern AI · Data Analytics · Applied AI
+- Microsoft AI Skills Fest
+
+<br>
+
+## `/stats`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mr1823&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr1823&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+</div>
+
+<br>
+
+## `/connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paviofficial-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paviofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Mr1823-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mr1823)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+$ echo "shipped > perfect"
+```
+
+</div>
