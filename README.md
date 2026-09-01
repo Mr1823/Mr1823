@@ -1,18 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Pavithran</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Building AI-Native Products | Targeting Zoho 🚀</h3>
+<h1 align="center">Hi, I'm Pavithran 👋</h1>
+<h3 align="center">B.Tech AI & Data Science Student | Building AI-Native Products | Targeting Zoho</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=B.Tech+AI+%26+Data+Science+Student;Python+%7C+React+%7C+Node.js+%7C+Flutter;Building+AI-Native+SaaS+Products+%F0%9F%A4%96;Shipping+Real+Projects%2C+Not+Just+Tutorials" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr1823&color=00c9ff&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🎓 **B.Tech AI & Data Science** @ Kamaraj College of Engineering & Technology (KCET), Virudhunagar — Batch 2024–2028
 - 🏫 Affiliated with **Anna University** | Student ID: 24UAD056
@@ -25,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="left">
@@ -67,7 +62,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -78,15 +73,15 @@
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- 🅰️ **18 Anthropic Certifications**
-- 🖧 **Cisco Networking Academy** — Introduction to Modern AI, Data Analytics Essentials, Apply AI: Analyze Customer Reviews
-- 🪟 **Microsoft AI Skills Fest**
+- **18 Anthropic Certifications**
+- **Cisco Networking Academy** — Introduction to Modern AI, Data Analytics Essentials, Apply AI: Analyze Customer Reviews
+- **Microsoft AI Skills Fest**
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr1823&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -95,7 +90,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paviofficial" target="_blank">
@@ -105,5 +100,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">⭐ <i>Building real products, one commit at a time.</i> ⭐</p>
