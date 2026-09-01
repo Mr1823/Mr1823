@@ -83,9 +83,11 @@
 
 ### GitHub Stats
 
+<!-- After running the profile-summary-cards Action once, replace the two paths below
+     with the actual filenames from profile-summary-card-output/default/ in your repo. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr1823&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr1823&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" />
+  <img src="./profile-summary-card-output/default/3-repos-per-language.svg" width="48%" />
 </p>
 
 ---
